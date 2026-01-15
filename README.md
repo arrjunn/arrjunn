@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arjun86616602" target="blank"><img src="https://img.shields.io/twitter/follow/arjun86616602?logo=twitter&style=for-the-badge" alt="arjun86616602" /></a> </p>
 
-- 💬 Ask me about **C++,C,HTML,Python**
+- 💬 Ask me about **Product and Strategy**
 
 - 📫 How to reach me **arjunvarshney13@gmail.com**
 
