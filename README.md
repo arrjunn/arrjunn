@@ -59,10 +59,10 @@
 
 <br/>
 
-### 📈 GitHub Stats
+<h3 align="left">📈 GitHub Stats</h3>
 <p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=arrjunn&show_icons=true&locale=en&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=graywhite" alt="arrjunn" height="150" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arrjunn&show_icons=true&locale=en&layout=compact&hide_title=true&hide_border=true&theme=graywhite" alt="arrjunn" height="150" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=arrjunn&show_icons=true&locale=en" alt="arrjunn" height="160" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arrjunn&show_icons=true&locale=en&layout=compact" alt="arrjunn" height="160" />
 </p>
 <br clear="all"/>
 
