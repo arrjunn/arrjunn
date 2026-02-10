@@ -35,46 +35,40 @@
 
 <hr/>
 
-<h3>🛠️ The PM Stack</h3>
-<p><em>Technical literacy for modern product management.</em></p>
+### 🛠️ The PM Stack
+*Technical literacy for modern product management.*
 
-<p><strong>1. Data & Analytics (The "What")</strong></p>
-<p>
+**1. Data & Analytics (The "What")**
+<br>
 <img src="https://img.shields.io/badge/SQL-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-Pandas-3776AB?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Viz-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Metrics-Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
-</p>
 
-<p><strong>2. Product & Strategy (The "Why")</strong></p>
-<p>
+**2. Product & Strategy (The "Why")**
+<br>
 <img src="https://img.shields.io/badge/Strategy-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Docs-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Flows-Miro-050038?style=flat-square&logo=miro&logoColor=white" />
-</p>
 
-<p><strong>3. Technical Proficiency (The "How")</strong></p>
-<p>
+**3. Technical Proficiency (The "How")**
+<br>
 <img src="https://img.shields.io/badge/APIs-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Automation-n8n-FF655A?style=flat-square&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/LLMs-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Code-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-</p>
 
 <br/>
 
-<h3>📈 GitHub Metrics</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arrjunn&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arrjunn&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Langs" height="150" />
-</p>
+### 📈 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arrjunn&theme=dark&hide_border=true)
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arrjunn&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</p>
+<br/>
 
-<br clear="all"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=arrjunn&layout=compact&theme=dark&hide_border=true)
+
+<br/>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=arrjunn&label=Profile%20views&color=blueviolet&style=flat" alt="arrjunn" />
