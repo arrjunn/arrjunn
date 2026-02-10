@@ -66,15 +66,11 @@
 
 <h3>📈 GitHub Stats</h3>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arrjunn&theme=dark&hide_border=true" alt="Streak Stats" />
-</p>
+| **Streak Stats** | **Top Languages** |
+|:---:|:---:|
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=arrjunn&theme=dark&hide_border=true" alt="GitHub Streak" height="160" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arrjunn&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="160" /> |
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arrjunn&show_icons=true&locale=en&theme=dark" alt="Top Langs" />
-</p>
-
-<br clear="all"/>
+<br/>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=arrjunn&label=Profile%20views&color=blueviolet&style=flat" alt="arrjunn" />
