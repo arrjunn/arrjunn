@@ -70,9 +70,6 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=arrjunn&layout=compact&theme=dark&hide_border=true)
-
-<br/>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=arrjunn&label=Profile%20views&color=blueviolet&style=flat" alt="arrjunn" />
