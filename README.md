@@ -68,7 +68,7 @@
 
 | **Streak Stats** | **Top Languages** |
 |:---:|:---:|
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=arrjunn&theme=dark&hide_border=true" alt="GitHub Streak" height="160" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arrjunn&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="160" /> |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=arrjunn&theme=dark&hide_border=true&v=2" alt="GitHub Streak" height="180" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arrjunn&show_icons=true&locale=en&theme=dark&hide_border=true&hide=html,css&v=2" alt="Top Langs" height="180" /> |
 
 <br/>
 
