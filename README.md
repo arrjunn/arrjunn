@@ -35,40 +35,46 @@
 
 <hr/>
 
-### 🛠️ The PM Stack
-*Technical literacy for modern product management.*
+<h3>🛠️ The PM Stack</h3>
+<p><em>Technical literacy for modern product management.</em></p>
 
-**1. Data & Analytics (The "What")**
-<br>
+<p><strong>1. Data & Analytics (The "What")</strong></p>
+<p>
 <img src="https://img.shields.io/badge/SQL-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-Pandas-3776AB?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Viz-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Metrics-Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+</p>
 
-**2. Product & Strategy (The "Why")**
-<br>
+<p><strong>2. Product & Strategy (The "Why")</strong></p>
+<p>
 <img src="https://img.shields.io/badge/Strategy-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Docs-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Flows-Miro-050038?style=flat-square&logo=miro&logoColor=white" />
+</p>
 
-**3. Technical Proficiency (The "How")**
-<br>
+<p><strong>3. Technical Proficiency (The "How")</strong></p>
+<p>
 <img src="https://img.shields.io/badge/APIs-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Automation-n8n-FF655A?style=flat-square&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/LLMs-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Code-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+</p>
 
 <br/>
 
-### 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arrjunn&theme=dark&hide_border=true)
+<h3>📈 GitHub Stats</h3>
 
-<br/>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arrjunn&theme=dark&hide_border=true" alt="Streak Stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=arrjunn&layout=compact&theme=dark&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arrjunn&show_icons=true&locale=en&theme=dark" alt="Top Langs" />
+</p>
 
-<br/>
+<br clear="all"/>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=arrjunn&label=Profile%20views&color=blueviolet&style=flat" alt="arrjunn" />
