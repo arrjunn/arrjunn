@@ -1,33 +1,71 @@
-<h1 align="center">Hii👋, I'm Arjun Varshney</h1>
-<h3 align="center">Pre Final Year Student at IIITN</h3>
+<div align="center">
+  <h1 align="center">Hi, I'm Arjun Varshney 👋</h1>
+  <h3 align="center">Pre-Final Year @ IIITN | Product, Data & AI Strategy</h3>
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arrjunn&label=Profile%20views&color=0e75b6&style=flat" alt="arrjunn" /> </p>
+<div align="center">
+  <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<p align="left"> <a href="https://twitter.com/arjun86616602" target="blank"><img src="https://img.shields.io/twitter/follow/arjun86616602?logo=twitter&style=for-the-badge" alt="arjun86616602" /></a> </p>
+  <div align="left">
+    <p>
+      <em>Bridging the gap between Engineering capabilities and Business goals.</em>
+    </p>
 
-- 💬 Ask me about **Product and Strategy**
+   <p>
+    <a href="https://twitter.com/arjun86616602" target="blank"><img src="https://img.shields.io/twitter/follow/arjun86616602?logo=twitter&style=for-the-badge&color=0e75b6&labelColor=white" alt="arjun86616602" /></a>
+    <a href="https://www.linkedin.com/in/arjun-varshney-178b042a6/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="mailto:arjunvarshney13@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 
-- 📫 How to reach me **arjunvarshney13@gmail.com**
+  ### 🚀 The Impact
+  I am a technical student focused on **Product Discovery** and **Data-Driven Decision Making**. I use my engineering background to communicate effectively with devs while focusing on user value.
 
-<h3 align="left">Connect with me:</h3>
+  - 🏆 **Winner, StartQuest:** AI/ML Business Hackathon @ **IIT Kharagpur**.
+  - 🥇 **1st Prize, Rebranding Wars:** Brand Strategy Competition @ **IIIT Nagpur**.
+  - 🔭 **Current Focus:** Automating workflows with **n8n** & Product Analytics.
+  
+  </div>
+</div>
+
+<br clear="all"/>
+
+---
+
+### 🛠️ The PM Stack
+*Technical literacy for modern product management.*
+
+**1. Data & Analytics (The "What")**
+<br>
+<img src="https://img.shields.io/badge/SQL-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Pandas-3776AB?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Viz-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Metrics-Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+
+**2. Product & Strategy (The "Why")**
+<br>
+<img src="https://img.shields.io/badge/Strategy-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Docs-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Flows-Miro-050038?style=flat-square&logo=miro&logoColor=white" />
+
+**3. Technical Proficiency (The "How")**
+<br>
+<img src="https://img.shields.io/badge/APIs-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation-n8n-FF655A?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Code-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+
+<br/>
+
+### 📈 GitHub Stats
 <p align="left">
-<a href="https://twitter.com/arjun86616602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arjun86616602" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arjun-varshney-178b042a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arjun-varshney-178b042a6/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/arjunium_19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arjunium_19/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/chiku_19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/chiku_19" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/arjunvarshney13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/arjunvarshney13" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/chikuu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/chikuu_" height="30" width="40" /></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=arrjunn&show_icons=true&locale=en&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=graywhite" alt="arrjunn" height="150" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arrjunn&show_icons=true&locale=en&layout=compact&hide_title=true&hide_border=true&theme=graywhite" alt="arrjunn" height="150" />
 </p>
+<br clear="all"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arrjunn&show_icons=true&locale=en&layout=compact" alt="arrjunn" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arrjunn&show_icons=true&locale=en" alt="arrjunn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arrjunn&" alt="arrjunn" /></p>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=arrjunn&label=Profile%20views&color=blueviolet&style=flat" alt="arrjunn" />
+</p>
