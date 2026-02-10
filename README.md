@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 align="center">Hi, I'm Arjun Varshney 👋</h1>
-  <h3 align="center">Pre-Final Year @ IIITN | Product, Data & AI Strategy</h3>
+  <h1>Hi, I'm Arjun Varshney 👋</h1>
+  <h3>Pre-Final Year @ IIITN | Product, Data & AI Strategy</h3>
 </div>
 
 <br/>
@@ -19,53 +19,60 @@
     <a href="mailto:arjunvarshney13@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
-  ### 🚀 The Impact
-  I am a technical student focused on **Product Discovery** and **Data-Driven Decision Making**. I use my engineering background to communicate effectively with devs while focusing on user value.
+  <h3>🚀 The Impact</h3>
+  <p>I am a technical student focused on <strong>Product Discovery</strong> and <strong>Data-Driven Decision Making</strong>. I use my engineering background to communicate effectively with devs while focusing on user value.</p>
 
-  - 🏆 **Winner, StartQuest:** AI/ML Business Hackathon @ **IIT Kharagpur**.
-  - 🥇 **1st Prize, Rebranding Wars:** Brand Strategy Competition @ **IIIT Nagpur**.
-  - 🔭 **Current Focus:** Automating workflows with **n8n** & Product Analytics.
+  <ul>
+    <li>🏆 <strong>Winner, StartQuest:</strong> AI/ML Business Hackathon @ <strong>IIT Kharagpur</strong>.</li>
+    <li>🥇 <strong>1st Prize, Rebranding Wars:</strong> Brand Strategy Competition @ <strong>IIIT Nagpur</strong>.</li>
+    <li>🔭 <strong>Current Focus:</strong> Automating workflows with <strong>n8n</strong> & Product Analytics.</li>
+  </ul>
   
   </div>
 </div>
 
 <br clear="all"/>
 
----
+<hr/>
 
-### 🛠️ The PM Stack
-*Technical literacy for modern product management.*
+<h3>🛠️ The PM Stack</h3>
+<p><em>Technical literacy for modern product management.</em></p>
 
-**1. Data & Analytics (The "What")**
-<br>
+<p><strong>1. Data & Analytics (The "What")</strong></p>
+<p>
 <img src="https://img.shields.io/badge/SQL-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-Pandas-3776AB?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Viz-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Metrics-Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+</p>
 
-**2. Product & Strategy (The "Why")**
-<br>
+<p><strong>2. Product & Strategy (The "Why")</strong></p>
+<p>
 <img src="https://img.shields.io/badge/Strategy-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Docs-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Flows-Miro-050038?style=flat-square&logo=miro&logoColor=white" />
+</p>
 
-**3. Technical Proficiency (The "How")**
-<br>
+<p><strong>3. Technical Proficiency (The "How")</strong></p>
+<p>
 <img src="https://img.shields.io/badge/APIs-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Automation-n8n-FF655A?style=flat-square&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/LLMs-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Code-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+</p>
 
 <br/>
 
-<h3 align="left">📈 GitHub Stats</h3>
+<h3>📈 GitHub Stats</h3>
 <p align="left">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=arrjunn&layout=compact&theme=algolia)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arrjunn&show_icons=true&theme=algolia)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arrjunn&theme=dark&hide_border=true" alt="Streak Stats" />
 </p>
-<br clear="all"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arrjunn&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+</p>
 
+<br clear="all"/>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=arrjunn&label=Profile%20views&color=blueviolet&style=flat" alt="arrjunn" />
