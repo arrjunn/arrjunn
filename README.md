@@ -64,12 +64,14 @@
 
 <br/>
 
-<h3>📈 GitHub Stats</h3>
+<h3>📈 GitHub Metrics</h3>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arrjunn&theme=dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arrjunn&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arrjunn&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Langs" height="150" />
 </p>
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arrjunn&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arrjunn&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
 
 <br clear="all"/>
