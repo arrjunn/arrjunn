@@ -61,10 +61,11 @@
 
 <h3 align="left">📈 GitHub Stats</h3>
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=arrjunn&show_icons=true&locale=en" alt="arrjunn" height="160" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arrjunn&show_icons=true&locale=en&layout=compact" alt="arrjunn" height="160" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=arrjunn&layout=compact&theme=algolia)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arrjunn&show_icons=true&theme=algolia)
 </p>
 <br clear="all"/>
+
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=arrjunn&label=Profile%20views&color=blueviolet&style=flat" alt="arrjunn" />
