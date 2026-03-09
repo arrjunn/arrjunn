@@ -69,10 +69,10 @@ I bridge the gap between engineering and business — I can write production cod
 
 <p>
 <img height="160" src="https://streak-stats.demolab.com/?user=arrjunn&theme=transparent&hide_border=true&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&currStreakNum=aaaaaa&sideNums=aaaaaa&dates=aaaaaa" />
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=arrjunn&show_icons=true&theme=transparent&hide_border=true&icon_color=888888&title_color=888888&text_color=aaaaaa&hide=stars" />
 </p>
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arrjunn&theme=transparent" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrjunn&layout=compact&theme=transparent&hide_border=true&title_color=888888&text_color=aaaaaa" height="140" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arrjunn&theme=transparent" height="160" />
 
 ---
 
