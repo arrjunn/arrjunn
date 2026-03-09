@@ -7,7 +7,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝  ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-**Product-minded engineer. Building things that make decisions easier.**
+<a href="https://github.com/arrjunn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=888888&center=false&vCenter=true&repeat=true&width=600&lines=Product-minded+engineer.;Building+things+that+make+decisions+easier.;PM+%C3%97+Engineering+%C3%97+Data." alt="Typing SVG" /></a>
 
 Pre-Final Year @ IIIT Nagpur — Product, Data & AI Strategy
 
@@ -15,6 +15,8 @@ Pre-Final Year @ IIIT Nagpur — Product, Data & AI Strategy
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arjunvarshney13@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=notion&logoColor=white)](https://determined-burst-7ca.notion.site/Personal-Portfolio-021b6fec0d0049819cf42ecdd8126de4)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/arjun86616602)
+
+![Profile Views](https://komarev.com/ghpvc/?username=arrjunn&style=flat-square&color=888888&label=profile+views)
 
 ---
 
@@ -52,6 +54,10 @@ Built with `Next.js 14` `TypeScript` `Tailwind CSS` `Supabase` `@dnd-kit` `Recha
 
 ### How I Work
 
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase,react,python,cpp,postgres,figma,git&theme=light" alt="Tech Stack" />
+</p>
+
 ```
 Product Discovery     →  User interviews, JTBD, opportunity scoring
 Data & Analytics      →  SQL, Python/Pandas, Tableau, Google Analytics
@@ -68,11 +74,23 @@ I bridge the gap between engineering and business — I can write production cod
 ### GitHub
 
 <p>
+<img src="https://github-trophies.vercel.app/?username=arrjunn&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
+</p>
+
+<p>
 <img height="160" src="https://streak-stats.demolab.com/?user=arrjunn&theme=transparent&hide_border=true&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&currStreakNum=aaaaaa&sideNums=aaaaaa&dates=aaaaaa" />
 </p>
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arrjunn&theme=transparent" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arrjunn&theme=transparent" height="160" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arrjunn&theme=github-compact&hide_border=true&area=true&area_color=888888&line=888888&point=aaaaaa&color=888888&title_color=888888" alt="Activity Graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arrjunn/arrjunn/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arrjunn/arrjunn/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/arrjunn/arrjunn/output/github-snake.svg" />
+</picture>
 
 ---
 
