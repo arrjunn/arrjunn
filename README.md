@@ -20,15 +20,6 @@ Pre-Final Year @ IIIT Nagpur — Product, Data & AI Strategy
 
 ---
 
-### Wins
-
-| | |
-|---|---|
-| **Winner** — StartQuest AI/ML Business Hackathon | **IIT Kharagpur** |
-| **1st Prize** — Rebranding Wars, Brand Strategy | **IIIT Nagpur** |
-
----
-
 ### Currently Building
 
 <table>
