@@ -1,76 +1,79 @@
-<div align="center">
-  <h1>Hi, I'm Arjun Varshney 👋</h1>
-  <h3>Pre-Final Year @ IIITN | Product, Data & AI Strategy</h3>
-</div>
+```
+ █████╗ ██████╗      ██╗██╗   ██╗███╗   ██╗
+██╔══██╗██╔══██╗     ██║██║   ██║████╗  ██║
+███████║██████╔╝     ██║██║   ██║██╔██╗ ██║
+██╔══██║██╔══██╗██   ██║██║   ██║██║╚██╗██║
+██║  ██║██║  ██║╚█████╔╝╚██████╔╝██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝  ╚═════╝ ╚═╝  ╚═══╝
+```
 
-<br/>
+**Product-minded engineer. Building things that make decisions easier.**
 
-<div align="center">
-  <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+Pre-Final Year @ IIIT Nagpur — Product, Data & AI Strategy
 
-  <div align="left">
-    <p>
-      <em>Bridging the gap between Engineering capabilities and Business goals.</em>
-    </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-varshney-178b042a6/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arjunvarshney13@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=notion&logoColor=white)](https://determined-burst-7ca.notion.site/Personal-Portfolio-021b6fec0d0049819cf42ecdd8126de4)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/arjun86616602)
 
-   <p>
-    <a href="https://twitter.com/arjun86616602" target="blank"><img src="https://img.shields.io/twitter/follow/arjun86616602?logo=twitter&style=for-the-badge&color=0e75b6&labelColor=white" alt="arjun86616602" /></a>
-    <a href="https://www.linkedin.com/in/arjun-varshney-178b042a6/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-    <a href="mailto:arjunvarshney13@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+---
 
-  <h3>🚀 The Impact</h3>
-  <p>I am a technical student focused on <strong>Product Discovery</strong> and <strong>Data-Driven Decision Making</strong>. I use my engineering background to communicate effectively with devs while focusing on user value.</p>
+### Wins
 
-  <ul>
-    <li>🏆 <strong>Winner, StartQuest:</strong> AI/ML Business Hackathon @ <strong>IIT Kharagpur</strong>.</li>
-    <li>🥇 <strong>1st Prize, Rebranding Wars:</strong> Brand Strategy Competition @ <strong>IIIT Nagpur</strong>.</li>
-    <li>🔭 <strong>Current Focus:</strong> Automating workflows with <strong>n8n</strong> & Product Analytics.</li>
-  </ul>
-  
-  </div>
-</div>
+| | |
+|---|---|
+| **Winner** — StartQuest AI/ML Business Hackathon | **IIT Kharagpur** |
+| **1st Prize** — Rebranding Wars, Brand Strategy | **IIIT Nagpur** |
 
-<br clear="all"/>
+---
 
-<hr/>
+### Currently Building
 
-<h3>🛠️ The PM Stack</h3>
-<p><em>Technical literacy for modern product management.</em></p>
+<table>
+<tr>
+<td width="600">
 
-<p><strong>1. Data & Analytics (The "What")</strong></p>
+#### [Backlog — The Ultimate Feature Prioritizer](https://backlog-the-ultimate-feature-priori.vercel.app/)
+
+A production SaaS for teams to collect, score, and ship the right features.
+
+**7 scoring frameworks** (RICE, MoSCoW, Kano, ICE, WSJF, JTBD, Value/Effort) · **Kanban board** · **Team voting** · **Real-time collaboration** · **AI suggestions** · **Insights dashboard**
+
+Built with `Next.js 14` `TypeScript` `Tailwind CSS` `Supabase` `@dnd-kit` `Recharts`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=flat-square&logo=vercel&logoColor=white)](https://backlog-the-ultimate-feature-priori.vercel.app/)
+[![Source](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arrjunn/Backlog_The-Ultimate-Feature-Prioritizer)
+
+</td>
+</tr>
+</table>
+
+---
+
+### How I Work
+
+```
+Product Discovery     →  User interviews, JTBD, opportunity scoring
+Data & Analytics      →  SQL, Python/Pandas, Tableau, Google Analytics
+Product Execution     →  Jira, Figma, Notion, Miro
+Technical             →  Next.js, TypeScript, PostgreSQL, Supabase, APIs
+Automation            →  n8n workflows, OpenAI API, CI/CD pipelines
+Code                  →  C++, JavaScript/TypeScript, Python, SQL
+```
+
+I bridge the gap between engineering and business — I can write production code, run data analysis, and translate user needs into specs that developers actually want to build.
+
+---
+
+### GitHub
+
 <p>
-<img src="https://img.shields.io/badge/SQL-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-Pandas-3776AB?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Viz-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Metrics-Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=arrjunn&theme=transparent&hide_border=true&ring=888&fire=888&currStreakLabel=888" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=arrjunn&show_icons=true&theme=transparent&hide_border=true&icon_color=888&title_color=888&text_color=aaa&hide=stars" />
 </p>
 
-<p><strong>2. Product & Strategy (The "Why")</strong></p>
-<p>
-<img src="https://img.shields.io/badge/Strategy-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Docs-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Flows-Miro-050038?style=flat-square&logo=miro&logoColor=white" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrjunn&layout=compact&theme=transparent&hide_border=true&title_color=888&text_color=aaa" height="140" />
 
-<p><strong>3. Technical Proficiency (The "How")</strong></p>
-<p>
-<img src="https://img.shields.io/badge/APIs-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Automation-n8n-FF655A?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/LLMs-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Code-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-</p>
+---
 
-<br/>
-
-<h3>📈 GitHub Stats</h3>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arrjunn&theme=dark&hide_border=true)
-
-<br/>
-
-
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=arrjunn&label=Profile%20views&color=blueviolet&style=flat" alt="arrjunn" />
-</p>
+<sub>I don't just manage products — I build them. Open to PM, APM, and product engineering roles.</sub>
