@@ -7,9 +7,9 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝  ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-<a href="https://github.com/arrjunn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=888888&center=false&vCenter=true&repeat=true&width=600&lines=Product-minded+engineer.;Building+things+that+make+decisions+easier.;PM+%C3%97+Engineering+%C3%97+Data." alt="Typing SVG" /></a>
+<a href="https://github.com/arrjunn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=888888&center=false&vCenter=true&repeat=true&width=600&lines=Product-minded+engineer.;Building+things+that+make+decisions+easier.;Currently+building+out+my+portfolio.;Learning+AI+-+LLMs,+agents,+automations." alt="Typing SVG" /></a>
 
-Pre-Final Year @ IIIT Nagpur — Product, Data & AI Strategy
+Pre-Final Year @ IIIT Nagpur — building my portfolio · learning AI / LLM applications
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-varshney-178b042a6/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arjunvarshney13@gmail.com)
@@ -20,41 +20,49 @@ Pre-Final Year @ IIIT Nagpur — Product, Data & AI Strategy
 
 ---
 
-### Currently Building
+### 🌱 Now
 
-<table>
-<tr>
-<td width="600">
+🎨 **Building out my portfolio** — designing case studies, polishing project pages, and shipping new side projects on [my Notion portfolio](https://determined-burst-7ca.notion.site/Personal-Portfolio-021b6fec0d0049819cf42ecdd8126de4).
+
+🧠 **Learning AI** — exploring how to build practical AI products end-to-end:
+- LLM application development (Gemini · GPT · Claude · Groq)
+- Prompt engineering & system-prompt design
+- AI agents & agentic workflows
+- AI assistants / chatbots with reply-handling automation
+- AI-powered automations (n8n, Zapier, custom Python integrations)
+- Retrieval & context distillation for grounded generation
+- Hallucination prevention via validators + re-prompt loops
+
+📚 **Reading / following** — Anthropic & OpenAI cookbooks, LangChain docs, Vercel AI SDK, weekly AI newsletters.
+
+---
+
+### 🚀 Featured project
 
 #### [Backlog — The Ultimate Feature Prioritizer](https://backlog-the-ultimate-feature-priori.vercel.app/)
 
-A production SaaS for teams to collect, score, and ship the right features.
+A production SaaS for product teams to collect, score, and ship the right features.
+**7 scoring frameworks** (RICE, MoSCoW, Kano, ICE, WSJF, JTBD, Value/Effort) · Kanban board · Team voting · Real-time collaboration · AI suggestions
 
-**7 scoring frameworks** (RICE, MoSCoW, Kano, ICE, WSJF, JTBD, Value/Effort) · **Kanban board** · **Team voting** · **Real-time collaboration** · **AI suggestions** · **Insights dashboard**
+`Next.js 14` · `TypeScript` · `Tailwind` · `Supabase` · `Recharts`
 
-Built with `Next.js 14` `TypeScript` `Tailwind CSS` `Supabase` `@dnd-kit` `Recharts`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=flat-square&logo=vercel&logoColor=white)](https://backlog-the-ultimate-feature-priori.vercel.app/)
-[![Source](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arrjunn/Backlog_The-Ultimate-Feature-Prioritizer)
-
-</td>
-</tr>
-</table>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=flat-square&logo=vercel&logoColor=white)](https://backlog-the-ultimate-feature-priori.vercel.app/) [![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arrjunn/Backlog_The-Ultimate-Feature-Prioritizer)
 
 ---
 
 ### How I Work
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase,react,python,cpp,postgres,figma,git&theme=light" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase,react,python,fastapi,cpp,postgres,figma,git&theme=light" alt="Tech Stack" />
 </p>
 
 ```
 Product Discovery     →  User interviews, JTBD, opportunity scoring
+AI / LLM              →  Prompt engineering, multi-provider LLM clients, agentic workflows, validators & re-prompt loops
+Automation            →  n8n workflows, AI-powered pipelines, OpenAI/Gemini API integrations, CI/CD
 Data & Analytics      →  SQL, Python/Pandas, Tableau, Google Analytics
 Product Execution     →  Jira, Figma, Notion, Miro
-Technical             →  Next.js, TypeScript, PostgreSQL, Supabase, APIs
-Automation            →  n8n workflows, OpenAI API, CI/CD pipelines
+Technical             →  Next.js, TypeScript, PostgreSQL, Supabase, FastAPI, APIs
 Code                  →  C++, JavaScript/TypeScript, Python, SQL
 ```
 
