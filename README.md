@@ -13,7 +13,7 @@ Pre-Final Year @ IIIT Nagpur — building my portfolio · learning AI / LLM appl
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-varshney-178b042a6/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arjunvarshney13@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=notion&logoColor=white)](https://determined-burst-7ca.notion.site/Personal-Portfolio-021b6fec0d0049819cf42ecdd8126de4)
+[![Portfolio](https://img.shields.io/badge/Live_Demo-000?style=flat-square&logo=vercel&logoColor=white)](https://arjunvportfolio.vercel.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/arjun86616602)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arrjunn&style=flat-square&color=888888&label=profile+views)
@@ -22,7 +22,7 @@ Pre-Final Year @ IIIT Nagpur — building my portfolio · learning AI / LLM appl
 
 ### 🌱 Now
 
-🎨 **Building out my portfolio** — designing case studies, polishing project pages, and shipping new side projects on [my Notion portfolio](https://determined-burst-7ca.notion.site/Personal-Portfolio-021b6fec0d0049819cf42ecdd8126de4).
+🎨 **Building out my portfolio** — designing case studies, polishing project pages, and shipping new side projects on [my Portfolio](https://arjunvportfolio.vercel.app/).
 
 🧠 **Learning AI** — exploring how to build practical AI products end-to-end:
 - LLM application development (Gemini · GPT · Claude · Groq)
